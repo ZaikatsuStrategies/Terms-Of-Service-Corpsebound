@@ -25,4 +25,4 @@ To the maximum extent allowed by law, the Bot's developers are not liable for da
 We may update these terms. Continued use of the Bot after changes means you accept them.
 
 ## 7. Contact
-Questions: [ADD YOUR DISCORD SERVER INVITE OR CONTACT HERE]
+Questions: [CORPSEBOUND]
